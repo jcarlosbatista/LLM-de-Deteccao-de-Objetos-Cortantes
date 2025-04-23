@@ -1,5 +1,12 @@
 # LLM-de-Deteccao-de-Objetos-Cortantes
 
+## 📺 Demonstração em Vídeo
+
+[![Gravação](https://img.youtube.com/vi/Jd-H-yjYvXM/0.jpg)](https://youtu.be/Jd-H-yjYvXM)
+
+Assista à demonstração completa do VisionGuard em funcionamento!  
+➡️ [Clique aqui para abrir no YouTube](https://youtu.be/Jd-H-yjYvXM)
+
 
 # VisionGuard: Detecção Inteligente de Objetos Cortantes com IA 🛡️🔪
 
